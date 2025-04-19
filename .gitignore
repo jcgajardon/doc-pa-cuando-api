@@ -1,0 +1,24 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# .env files for environment variables
+.env
+
+# .vscode files (si usas Visual Studio Code)
+.vscode/
+
+# Archive files
+*.tgz
+*.zip
+
+# IDE files (puedes agregar otros si usas otro IDE)
+.idea/
+
+# OS files (sólo si usas macOS o Windows, puedes eliminar o modificar)
+.DS_Store
+Thumbs.db
