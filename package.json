@@ -1,9 +1,9 @@
 {
   "name": "doc-pa-cuando-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/checkAvailability.js",
   "scripts": {
-    "start": "node checkAvailability.js",
+    "start": "node src/checkAvailability.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
