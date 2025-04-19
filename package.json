@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juan Gajardo (https://github.com/jcgajardon)",
   "license": "ISC",
-  "description": "",
+  "description": "Script que consulta la disponibilidad de horas médicas en Clínica Dávila y notifica por correo.",
   "dependencies": {
     "axios": "^1.8.4",
     "dotenv": "^16.5.0",
