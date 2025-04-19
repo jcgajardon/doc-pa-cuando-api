@@ -14,7 +14,7 @@ const notifyByEmail = async (message) => {
         await transporter.sendMail({
             from: `"DocPaCuándo 🧠" <${GMAIL_USER}>`,
             to: `${EMAIL_TO}, ${SECOND_EMAIL}`,
-            subject: "🩺 Appointment available at Clínica Dávila!",
+            subject: "🩺 Verificación de Disponibilidad de Hora en Clínica Dávila",
             html: `<p>${message}</p><p><a href="https://agendaweb.davila.cl/" target="_blank">Book now</a></p>`,
         });
         console.log("✅ Email sent.");
