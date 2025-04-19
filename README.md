@@ -52,9 +52,9 @@ PATIENT_RUT=12345678-9
 ```json
 [
   {
-    "name": "Dra. Maria Jose Perinetti - Neurología Infantil",
-    "spec_id": "30101023",
-    "doc_id": "23777",
+    "name": "Dra. John Doe - Medicina General",
+    "spec_id": "30101022",
+    "doc_id": "23771",
     "office_id": "TODOS"
   }
 ]
